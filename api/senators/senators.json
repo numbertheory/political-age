@@ -1,3 +1,376 @@
-{
-    "health": "ok"
-}
+[
+    {
+        "state": "AL",
+        "senators": [
+            {
+                "first_name": "Tommy",
+                "last_name": "Tuberville",
+                "party": "Republican",
+                "dob": "1954-09-18"
+            },
+            {
+                "first_name": "Katie",
+                "last_name": "Britt",
+                "party": "Republican",
+                "dob": "1982-02-02"
+            }
+        ]
+    },
+    {
+        "state": "AK",
+        "senators": [
+            {
+                "first_name": "Lisa",
+                "last_name": "Murkowski",
+                "party": "Republican",
+                "dob": "1957-05-22"
+            },
+            {
+                "first_name": "Dan",
+                "last_name": "Sullivan",
+                "party": "Republican",
+                "dob": "1964-11-13"
+            }
+        ]
+    },
+    {
+        "state": "AZ",
+        "senators": [
+            {
+                "first_name": "Kyrsten",
+                "last_name": "Sinema",
+                "party": "Independent",
+                "dob": "1976-07-12"
+            },
+            {
+                "first_name": "Mark",
+                "last_name": "Kelly",
+                "party": "Democratic",
+                "dob": "1964-02-21"
+            }
+        ]
+    },
+    {
+        "state": "AR",
+        "senators": [
+            {
+                "first_name": "John",
+                "last_name": "Boozman",
+                "party": "Republican",
+                "dob": "1950-12-10"
+            },
+            {
+                "first_name": "Tom",
+                "last_name": "Cotton",
+                "party": "Republican",
+                "dob": "1977-05-13"
+            }
+        ]
+    },
+    {
+        "state": "CA",
+        "senators": [
+            {
+                "first_name": "Dianne",
+                "last_name": "Feinstein",
+                "party": "Democratic",
+                "dob": "1933-06-22"
+            },
+            {
+                "first_name": "Alex",
+                "last_name": "Padilla",
+                "party": "Democratic",
+                "dob": "1973-03-22"
+            }
+        ]
+    },
+    {
+        "state": "CO",
+        "senators": [
+            {
+                "first_name": "Michael",
+                "last_name": "Bennet",
+                "party": "Democratic",
+                "dob": "1964-11-28"
+            },
+            {
+                "first_name": "John",
+                "last_name": "Hickenlooper",
+                "party": "Democratic",
+                "dob": "1952-02-07"
+            }
+        ]
+    },
+    {
+        "state": "CT",
+        "senators": [
+            {
+                "first_name": "Richard",
+                "last_name": "Blumenthal",
+                "party": "Democratic",
+                "dob": "1946-02-13"
+            },
+            {
+                "first_name": "Chris",
+                "last_name": "Murphy",
+                "party": "Democratic",
+                "dob": "1973-08-03"
+            }
+        ]
+    },
+    {
+        "state": "DE",
+        "senators": [
+            {
+                "first_name": "Tom",
+                "last_name": "Carper",
+                "party": "Democratic",
+                "dob": "1947-01-23"
+            },
+            {
+                "first_name": "Chris",
+                "last_name": "Murphy",
+                "party": "Democratic",
+                "dob": "1963-09-09"
+            }
+        ]
+    },
+    {
+        "state": "FL",
+        "senators": [
+            {
+                "first_name": "Marco",
+                "last_name": "Rubio",
+                "party": "Republican",
+                "dob": "1971-05-28"
+            },
+            {
+                "first_name": "Rick",
+                "last_name": "Scott",
+                "party": "Republican",
+                "dob": "1952-12-01"
+            }
+        ]
+    },
+    {
+        "state": "GA",
+        "senators": [
+            {
+                "first_name": "Jon",
+                "last_name": "Ossof",
+                "party": "Democratic",
+                "dob": "1987-02-16"
+            },
+            {
+                "first_name": "Raphael",
+                "last_name": "Warnock",
+                "party": "Democratic",
+                "dob": "1969-07-23"
+            }
+        ]
+    },
+    {
+        "state": "HI",
+        "senators": [
+            {
+                "first_name": "Brian",
+                "last_name": "Schatz",
+                "party": "Democratic",
+                "dob": "1972-10-20"
+            },
+            {
+                "first_name": "Mazie",
+                "last_name": "Hirono",
+                "party": "Democratic",
+                "dob": "1947-11-03"
+            }
+        ]
+    },
+    {
+        "state": "ID",
+        "senators": [
+            {
+                "first_name": "Mike",
+                "last_name": "Crapo",
+                "party": "Republican",
+                "dob": "1951-05-20"
+            },
+            {
+                "first_name": "Jim",
+                "last_name": "Risch",
+                "party": "Republican",
+                "dob": "1943-05-03"
+            }
+        ]
+    },
+    {
+        "state": "IL",
+        "senators": [
+            {
+                "first_name": "Dick",
+                "last_name": "Durbin",
+                "party": "Democratic",
+                "dob": "1944-11-21"
+            },
+            {
+                "first_name": "Tammy",
+                "last_name": "Duckworth",
+                "party": "Democratic",
+                "dob": "1968-03-12"
+            }
+        ]
+    },
+    {
+        "state": "IN",
+        "senators": [
+            {
+                "first_name": "Todd",
+                "last_name": "Young",
+                "party": "Republican",
+                "dob": "1972-08-24"
+            },
+            {
+                "first_name": "Mike",
+                "last_name": "Braun",
+                "party": "Republican",
+                "dob": "1954-03-24"
+            }
+        ]
+    },
+    {
+        "state": "IA",
+        "senators": [
+            {
+                "first_name": "Chuck",
+                "last_name": "Grassley",
+                "party": "Republican",
+                "dob": "1933-09-17"
+            },
+            {
+                "first_name": "Joni",
+                "last_name": "Ernst",
+                "party": "Republican",
+                "dob": "1970-07-01"
+            }
+        ]
+    },
+    {
+        "state": "KS",
+        "senators": [
+            {
+                "first_name": "Jerry",
+                "last_name": "Moran",
+                "party": "Republican",
+                "dob": "1954-05-29"
+            },
+            {
+                "first_name": "Roger",
+                "last_name": "Marshall",
+                "party": "Republican",
+                "dob": "1960-08-09"
+            }
+        ]
+    },
+    {
+        "state": "KY",
+        "senators": [
+            {
+                "first_name": "Mitch",
+                "last_name": "McConnell",
+                "party": "Republican",
+                "dob": "1942-02-20"
+            },
+            {
+                "first_name": "Rand",
+                "last_name": "Paul",
+                "party": "Republican",
+                "dob": "1963-01-07"
+            }
+        ]
+    },
+    {
+        "state": "LA",
+        "senators": [
+            {
+                "first_name": "Bill",
+                "last_name": "Cassidy",
+                "party": "Republican",
+                "dob": "1957-09-28"
+            },
+            {
+                "first_name": "John",
+                "last_name": "Kennedy",
+                "party": "Republican",
+                "dob": "1951-11-21"
+            }
+        ]
+    },
+    {
+        "state": "ME",
+        "senators": [
+            {
+                "first_name": "Susan",
+                "last_name": "Collins",
+                "party": "Republican",
+                "dob": "1952-12-07"
+            },
+            {
+                "first_name": "Angus",
+                "last_name": "King",
+                "party": "Independent",
+                "dob": "1944-03-31"
+            }
+        ]
+    },
+    {
+        "state": "MD",
+        "senators": [
+            {
+                "first_name": "Ben",
+                "last_name": "Cardin",
+                "party": "Democratic",
+                "dob": "1943-10-05"
+            },
+            {
+                "first_name": "Chris",
+                "last_name": "Van Hollen",
+                "party": "Democratic",
+                "dob": "1959-01-10"
+            }
+        ]
+    },
+    {
+        "state": "MA",
+        "senators": [
+            {
+                "first_name": "Elizabeth",
+                "last_name": "Warren",
+                "party": "Democratic",
+                "dob": "1949-06-22"
+            },
+            {
+                "first_name": "Ed",
+                "last_name": "Markey",
+                "party": "Democratic",
+                "dob": "1946-07-11"
+            }
+        ]
+    },
+    {
+        "state": "MI",
+        "senators": [
+            {
+                "first_name": "Debbie",
+                "last_name": "Stabenow",
+                "party": "Democratic",
+                "dob": "1950-04-29"
+            },
+            {
+                "first_name": "Gary",
+                "last_name": "Peters",
+                "party": "Democratic",
+                "dob": "1958-12-01"
+            }
+        ]
+    }
+]
